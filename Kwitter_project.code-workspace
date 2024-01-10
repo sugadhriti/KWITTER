@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Kwitter_project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Kwitter_Retry"
+	}
+}
